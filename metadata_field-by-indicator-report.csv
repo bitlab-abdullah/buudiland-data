@@ -1,6 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1-1,complete,,,,,,line
-#1-2-1,notstarted,,,,,,line
+#1-2-1,notapplicable,,,,,,line
 #1-2-2,notstarted,,,,,,line
 #1-3-1,notstarted,,,,,,line
 #1-4-1,notstarted,,,,,,line
@@ -11,7 +11,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-5-4,notstarted,,,,,,line
 #1-a-1,notstarted,,,,,,line
 #1-a-2,notstarted,,,,,,line
-#1-a-3,notstarted,,,,,,line
+#1-a-3,complete,,,,,,line
 #1-b-1,notstarted,,,,,,line
 #10-1-1,notstarted,,,,,,line
 #10-2-1,notstarted,,,,,,line
